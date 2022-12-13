@@ -1,4 +1,5 @@
 using Alunos.WebApi.Context;
+using Alunos.WebApi.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,7 +34,9 @@ namespace Alunos.WebApi
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            services.AddScoped<IAlunoService, AlunoService>();
             services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Alunos.WebApi", Version = "v1" });

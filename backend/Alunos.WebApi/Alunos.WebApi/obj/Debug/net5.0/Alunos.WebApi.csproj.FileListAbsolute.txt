@@ -6,9 +6,11 @@ R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\n
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Alunos.WebApi.runtimeconfig.dev.json
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Alunos.WebApi.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Alunos.WebApi.pdb
+R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Humanizer.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -56,5 +58,3 @@ R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\obj\Debug\n
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\obj\Debug\net5.0\Alunos.WebApi.pdb
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\obj\Debug\net5.0\Alunos.WebApi.genruntimeconfig.cache
 R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\obj\Debug\net5.0\ref\Alunos.WebApi.dll
-R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Humanizer.dll
-R:\dese.git\DotNetCore-com-React\backend\Alunos.WebApi\Alunos.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
